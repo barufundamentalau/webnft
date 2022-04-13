@@ -107,8 +107,7 @@
     </div>
     <div class="footer-bottom">
         <div class="container">
-            <p class="text-center py-4 mb-0">All rights reserved &copy; Enftomark || Design By: <a
-                    href="https://themeforest.net/user/codexcoder">codexcoder</a>
+            <p class="text-center py-4 mb-0">Copyright &copy; 2022 Pogogutat NFT All rights reserved
             </p>
         </div>
     </div>

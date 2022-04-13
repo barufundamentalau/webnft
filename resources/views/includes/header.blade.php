@@ -22,6 +22,15 @@
                             aria-expanded="false" data-bs-offset="0,10">Home</a>
                     </li>
                     <li class="header__nav-item">
+                        <a href="#" class="header__nav-link">Projects</a>
+                    </li>
+                    <li class="header__nav-item">
+                        <a href="#" class="header__nav-link">Writing</a>
+                    </li>
+                    <li class="header__nav-item">
+                        <a href="#" class="header__nav-link">About</a>
+                    </li>
+                    {{-- <li class="header__nav-item">
                         <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Explore</a>
 
@@ -30,11 +39,8 @@
                             <li><a class="drop-down-item" href="auction.html">Auction Page</a></li>
 
                         </ul>
-                    </li>
-                    <li class="header__nav-item">
-                        <a href="activity.html" class="header__nav-link">Activity</a>
-                    </li>
-                    <li class="header__nav-item">
+                    </li> --}}
+                    {{-- <li class="header__nav-item">
                         <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Blog</a>
 
@@ -45,8 +51,8 @@
                             <li><a class="drop-down-item" href="blog-single.html">Blog Single </a></li>
                             <li><a class="drop-down-item" href="blog-single-2.html">Blog Single 2</a></li>
                         </ul>
-                    </li>
-                    <li class="header__nav-item">
+                    </li> --}}
+                    {{-- <li class="header__nav-item">
                         <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Pages</a>
 
@@ -60,8 +66,8 @@
                             <li><a class="drop-down-item" href="forgot-pass.html">Forgot Password</a></li>
 
                         </ul>
-                    </li>
-                    <li class="header__nav-item">
+                    </li> --}}
+                    {{-- <li class="header__nav-item">
                         <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10"><svg
                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -73,7 +79,7 @@
                             <li><a class="drop-down-item" href="contact.html">Contact </a></li>
                             <li><a class="drop-down-item" href="coming-soon.html">Coming soon</a></li>
                         </ul>
-                    </li>
+                    </li> --}}
                 </ul>
             </div>
 

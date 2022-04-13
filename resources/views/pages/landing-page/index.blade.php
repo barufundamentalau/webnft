@@ -73,19 +73,19 @@
 
                                                         <!-- nft countdwon -->
                                                         <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                                    <li>
-                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                                    </li>
-                                                                                                                    <li>
-                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                                    </li>
-                                                                                                                    <li>
-                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                                    </li>
-                                                                                                                    <li>
-                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                                    </li>
-                                                                                                                </ul> -->
+                                                                                                                                                                    <li>
+                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                    </li>
+                                                                                                                                                                </ul> -->
                                                     </div>
                                                     <div class="nft-content">
                                                         <h4><a href="item-details.html">Black Cat </a> </h4>
@@ -148,19 +148,19 @@
 
                                                         <!-- nft countdwon -->
                                                         <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                                                                        </li>
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                                                                        </li>
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                                                                        </li>
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                                                                        </li>
-                                                                                                                                                    </ul> -->
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                    </ul> -->
                                                     </div>
                                                     <div class="nft-content">
                                                         <h4><a href="item-details.html">EUPHORIA de</a> </h4>
@@ -224,19 +224,19 @@
 
                                                         <!-- nft countdwon -->
                                                         <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                                                                        </li>
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                                                                        </li>
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                                                                        </li>
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                                                                        </li>
-                                                                                                                                                    </ul> -->
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                    </ul> -->
                                                     </div>
                                                     <div class="nft-content">
                                                         <h4><a href="item-details.html">Future Rocket</a> </h4>
@@ -300,19 +300,19 @@
 
                                                         <!-- nft countdwon -->
                                                         <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                                                                        </li>
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                                                                        </li>
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                                                                        </li>
-                                                                                                                                                        <li>
-                                                                                                                                                            <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                                                                        </li>
-                                                                                                                                                    </ul> -->
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                        <li>
+                                                                                                                                                                                                            <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                        </li>
+                                                                                                                                                                                                    </ul> -->
                                                     </div>
                                                     <div class="nft-content">
                                                         <h4><a href="item-details.html">Silly C4T de</a> </h4>
@@ -445,7 +445,7 @@
 
 
     <!-- ===============//auction section start here \\================= -->
-    <section class="auction-section padding-bottom">
+    {{-- <section class="auction-section padding-bottom">
         <div class="container">
             <div class="section-header style-4">
                 <div class="header-shape"><span></span></div>
@@ -768,7 +768,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- ===============//auction section end here \\================= -->
 
 
@@ -778,7 +778,7 @@
         <div class="container">
             <div class="section-header style-4">
                 <div class="header-shape"><span></span></div>
-                <h3>Browse By Catergory</h3>
+                <h3>Projects</h3>
             </div>
             <div class="section-wrapper">
 
@@ -811,7 +811,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Digital Art</a> </h4>
+                                            <h4><a href="explore.html">Tarsius</a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -844,7 +844,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Music</a> </h4>
+                                            <h4><a href="explore.html">Pogo Coin</a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -877,7 +877,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Domain Name </a> </h4>
+                                            <h4><a href="explore.html">Manguni </a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -910,7 +910,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Sports </a> </h4>
+                                            <h4><a href="explore.html">Pogo Key </a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -943,7 +943,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Utilities</a> </h4>
+                                            <h4><a href="explore.html">Pogo Game</a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -976,7 +976,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">All NFT's</a> </h4>
+                                            <h4><a href="explore.html">Pogo App</a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -1000,7 +1000,7 @@
         <div class="container">
             <div class="section-header style-4">
                 <div class="header-shape"><span></span></div>
-                <h3>Top Sellers</h3>
+                <h3>Members</h3>
             </div>
             <div class="section-wrapper">
                 <div class="nft-sell-wrapper">
@@ -1225,7 +1225,7 @@
         <div class="container">
             <div class="section-header style-4">
                 <div class="header-shape"><span></span></div>
-                <h3>Exclusive aNFT Drops</h3>
+                <h3>Exclusive Collections</h3>
             </div>
             <div class="section-wrapper">
                 <div class="ex-drop-wrapper">
@@ -1269,19 +1269,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                    <li>
-                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                    </li>
-                                                </ul> -->
+                                                                                                    <li>
+                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                    </li>
+                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">EUPHORIA de</a> </h4>
@@ -1344,19 +1344,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                    <li>
-                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                    </li>
-                                                </ul> -->
+                                                                                                    <li>
+                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                    </li>
+                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">Mewao com de</a> </h4>
@@ -1419,19 +1419,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                    <li>
-                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                    </li>
-                                                </ul> -->
+                                                                                                    <li>
+                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                    </li>
+                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">pet mice rio</a> </h4>
@@ -1490,19 +1490,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                    <li>
-                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                    </li>
-                                                </ul> -->
+                                                                                                    <li>
+                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                    </li>
+                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">Logical Impact </a> </h4>
@@ -1565,19 +1565,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                    <li>
-                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                    </li>
-                                                </ul> -->
+                                                                                                    <li>
+                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                    </li>
+                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">Fly on high</a> </h4>
@@ -1632,19 +1632,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                    <li>
-                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                    </li>
-                                                </ul> -->
+                                                                                                    <li>
+                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                    </li>
+                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">kiara rodri de</a> </h4>
@@ -1707,19 +1707,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                    <li>
-                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                    </li>
-                                                </ul> -->
+                                                                                                    <li>
+                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                    </li>
+                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">EUPHORIA de</a> </h4>
@@ -1782,19 +1782,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                    <li>
-                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                    </li>
-                                                    <li>
-                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                    </li>
-                                                </ul> -->
+                                                                                                    <li>
+                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                    </li>
+                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">Homies wall</a> </h4>
@@ -1826,7 +1826,7 @@
         <div class="container">
             <div class="section-header style-4">
                 <div class="header-shape"><span></span></div>
-                <h3>Our Blog Posts</h3>
+                <h3>Writing</h3>
             </div>
             <div class="section-wrapper">
 
