@@ -20,16 +20,16 @@
                                 <h4>Join the Community</h4>
                             </div>
                             <ul class="social-list d-flex flex-wrap align-items-center mb-0">
-                                <li class="social-link"><a href="#" data-blast="bgColor"><i
-                                            class="icofont-twitter"></i></a></li>
-                                <li class="social-link"><a href="#" data-blast="bgColor"><i
-                                            class="icofont-twitch"></i></a></li>
-                                <li class="social-link"><a href="#" data-blast="bgColor"><i
-                                            class="icofont-reddit"></i></a></li>
-                                <li class="social-link"><a href="#" data-blast="bgColor"><i
-                                            class="icofont-instagram"></i></a></li>
-                                <li class="social-link"><a href="#" data-blast="bgColor"><i
-                                            class="icofont-dribble"></i></a></li>
+                                <li class="social-link"><a href="https://twitter.com/PoGoGuTat"
+                                        data-blast="bgColor"><i class="icofont-twitter"></i></a></li>
+                                {{-- <li class="social-link"><a href="#" data-blast="bgColor"><i
+                                            class="icofont-twitch"></i></a></li> --}}
+                                {{-- <li class="social-link"><a href="http://discord.gg/A3Kjrvu5G" data-blast="bgColor"><i
+                                            class="icofont-reddit"></i></a></li> --}}
+                                <li class="social-link"><a href="https://instagram.com/pogogutat"
+                                        data-blast="bgColor"><i class="icofont-instagram"></i></a></li>
+                                {{-- <li class="social-link"><a href="#" data-blast="bgColor"><i
+                                            class="icofont-dribble"></i></a></li> --}}
                             </ul>
                         </div>
                     </div>

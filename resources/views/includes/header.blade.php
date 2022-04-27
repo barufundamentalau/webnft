@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="header__content">
             <div class="header__logo">
-                <a href="index.html">
+                <a href="{{ '/' }}">
                     <img src="capadesu/assets/images/logo/logo-3.png" alt="logo">
                 </a>
             </div>
@@ -18,17 +18,17 @@
             <div class="header__menu ms-auto">
                 <ul class="header__nav mb-0">
                     <li class="header__nav-item">
-                        <a class="header__nav-link active home-4" href="#" role="button" aria-haspopup="true"
-                            aria-expanded="false" data-bs-offset="0,10">Home</a>
+                        <a class="{{ setActive('/') }} header__nav-link home-4" href="{{ '/' }}"
+                            role="button" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Home</a>
                     </li>
-                    <li class="header__nav-item">
-                        <a href="#" class="header__nav-link">Projects</a>
+                    <li class="{{ setActive('landing/projects') }} header__nav-item">
+                        <a href="{{ route('landing.projects') }}" class="header__nav-link">Projects</a>
                     </li>
-                    <li class="header__nav-item">
-                        <a href="#" class="header__nav-link">Writing</a>
+                    <li class="{{ setActive('landing/news') }} header__nav-item">
+                        <a href="{{ route('landing.news') }}" class="header__nav-link">News</a>
                     </li>
-                    <li class="header__nav-item">
-                        <a href="#" class="header__nav-link">About</a>
+                    <li class="{{ setActive('landing/about') }} header__nav-item">
+                        <a href="{{ route('landing.about') }}" class="header__nav-link">About</a>
                     </li>
                     {{-- <li class="header__nav-item">
                         <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
@@ -88,7 +88,7 @@
                     <button class="header__action-btn" type="button"><i class="icofont-search-1"></i></button>
                 </div>
 
-                <div class="header__action header__action--profile">
+                {{-- <div class="header__action header__action--profile">
                     <div class="dropdown">
                         <a class="dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false" data-bs-offset="-100,10">
@@ -119,11 +119,11 @@
                                     Out <span class="ms-1"><i class="icofont-logout"></i></span></a></li>
                         </ul>
                     </div>
-                </div>
-                <div class="wallet-btn">
+                </div> --}}
+                {{-- <div class="wallet-btn">
                     <a href="wallet.html"><span><i class="icofont-wallet" data-blast="color"></i></span> <span
                             class="d-none d-md-inline">234.98ETH</span> </a>
-                </div>
+                </div> --}}
 
             </div>
 

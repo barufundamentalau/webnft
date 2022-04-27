@@ -19,3 +19,6 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::resource('/', LandingController::class);
+Route::get('/news', [LandingController::class, 'news'])->name('landing.news');
+Route::get('/projects', [LandingController::class, 'projects'])->name('landing.projects');
+Route::get('/about', [LandingController::class, 'about'])->name('landing.about');
