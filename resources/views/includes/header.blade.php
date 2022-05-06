@@ -7,26 +7,26 @@
                 </a>
             </div>
 
-            <form action="#" class="header__search">
+            {{-- <form action="#" class="header__search">
                 <input type="text" placeholder="Search items, collections, and creators">
                 <button type="button"><i class="icofont-search-2"></i></button>
                 <button type="button" class="close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <path
                             d="M13.41,12l6.3-6.29a1,1,0,1,0-1.42-1.42L12,10.59,5.71,4.29A1,1,0,0,0,4.29,5.71L10.59,12l-6.3,6.29a1,1,0,0,0,0,1.42,1,1,0,0,0,1.42,0L12,13.41l6.29,6.3a1,1,0,0,0,1.42,0,1,1,0,0,0,0-1.42Z" />
                     </svg></button>
-            </form>
+            </form> --}}
             <div class="header__menu ms-auto">
                 <ul class="header__nav mb-0">
                     <li class="header__nav-item">
                         <a class="{{ setActive('/') }} header__nav-link home-4" href="{{ '/' }}"
-                            role="button" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Home</a>
+                            role="button" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Roadmap</a>
                     </li>
                     {{-- <li class="{{ setActive('landing/projects') }} header__nav-item">
                         <a href="{{ route('landing.projects') }}" class="header__nav-link">Projects</a>
                     </li> --}}
                     <li class="header__nav-item">
-                        <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Projects</a>
+                        <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true"
+                            aria-expanded="false" data-bs-offset="0,10">Projects</a>
 
                         <ul class="dropdown-menu header__nav-menu">
                             <li><a class="drop-down-item" href="/petsypet">Petsypet</a></li>
@@ -38,11 +38,11 @@
 
                         </ul>
                     </li>
-                    <li class="{{ setActive('landing/news') }} header__nav-item">
-                        <a href="{{ route('landing.news') }}" class="header__nav-link">News</a>
+                    <li class="header__nav-item">
+                        <a href="coming-soon" class="header__nav-link">News</a>
                     </li>
-                    <li class="{{ setActive('landing/about') }} header__nav-item">
-                        <a href="{{ route('landing.about') }}" class="header__nav-link">About</a>
+                    <li class="header__nav-item">
+                        <a href="coming-soon" class="header__nav-link">About Us</a>
                     </li>
                     {{-- <li class="header__nav-item">
                         <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
