@@ -13,13 +13,12 @@
                     <div class="col-lg-7">
                         <div class="banner-content">
                             <h1> <span class="theme-color-4">
-                                    Create</span>, Collect And <span class="theme-color-4"> <br> Sell</span> Digital
-                                Items.
+                                    Pogogutat</span> NFT<span class="theme-color-4"> <br> </span> Projects
                             </h1>
-                            <p>Digital Marketplace For Crypto Collectibles And Non-Fungible Tokens.
+                            <p>Digital Crypto Collectibles And Non-Fungible Tokens.
                                 Buy, Sell, And Discover Exclusive Digital Assets.</p>
                             <div class="banner-btns d-flex flex-wrap">
-                                <a data-blast="bgColor" href="explore.html" class="default-btn move-top"><span>Explore</span>
+                                <a data-blast="bgColor" href="coming-soon" class="default-btn move-top"><span>Explore</span>
                                 </a>
                                 <a href="signin.html" class="default-btn move-right"><span>Create</span> </a>
                             </div>
@@ -39,9 +38,9 @@
                                                             <li class="single-author d-flex align-items-center">
                                                                 <a href="author.html" class="veryfied"><img
                                                                         loading="lazy"
-                                                                        src="capadesu/assets/images/seller/04.png"
+                                                                        src="capadesu/assets/images/seller/pogogutat.png"
                                                                         alt="author-img"></a>
-                                                                <h6><a href="author.html">rasselmrh</a></h6>
+                                                                <h6><a href="author.html">PoGoGuTat</a></h6>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -73,19 +72,19 @@
 
                                                         <!-- nft countdwon -->
                                                         <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                                                                                    <li>
-                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                                                                                    </li>
-                                                                                                                                                                    <li>
-                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                                                                                    </li>
-                                                                                                                                                                    <li>
-                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                                                                                    </li>
-                                                                                                                                                                    <li>
-                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                                                                                    </li>
-                                                                                                                                                                </ul> -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul> -->
                                                     </div>
                                                     <div class="nft-content">
                                                         <h4><a href="item-details.html">Black Cat </a> </h4>
@@ -114,9 +113,9 @@
                                                             <li class="single-author d-flex align-items-center">
                                                                 <a href="author.html" class="veryfied"><img
                                                                         loading="lazy"
-                                                                        src="capadesu/assets/images/seller/04.png"
+                                                                        src="capadesu/assets/images/seller/pogogutat.png"
                                                                         alt="author-img"></a>
-                                                                <h6><a href="author.html">Gucci Lucas</a></h6>
+                                                                <h6><a href="author.html">PoGoGuTat</a></h6>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -148,19 +147,19 @@
 
                                                         <!-- nft countdwon -->
                                                         <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                    </ul> -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul> -->
                                                     </div>
                                                     <div class="nft-content">
                                                         <h4><a href="item-details.html">EUPHORIA de</a> </h4>
@@ -190,9 +189,9 @@
                                                             <li class="single-author d-flex align-items-center">
                                                                 <a href="author.html" class="veryfied"><img
                                                                         loading="lazy"
-                                                                        src="capadesu/assets/images/seller/03.png"
+                                                                        src="capadesu/assets/images/seller/pogogutat.png"
                                                                         alt="author-img"></a>
-                                                                <h6><a href="author.html">Imo35 ucas</a></h6>
+                                                                <h6><a href="author.html">PoGoGuTat</a></h6>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -224,19 +223,19 @@
 
                                                         <!-- nft countdwon -->
                                                         <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                    </ul> -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul> -->
                                                     </div>
                                                     <div class="nft-content">
                                                         <h4><a href="item-details.html">Future Rocket</a> </h4>
@@ -266,9 +265,9 @@
                                                             <li class="single-author d-flex align-items-center">
                                                                 <a href="author.html" class="veryfied"><img
                                                                         loading="lazy"
-                                                                        src="capadesu/assets/images/seller/04.png"
+                                                                        src="capadesu/assets/images/seller/pogogutat.png"
                                                                         alt="author-img"></a>
-                                                                <h6><a href="author.html">lcus x3</a></h6>
+                                                                <h6><a href="author.html">PoGoGuTat</a></h6>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -300,19 +299,19 @@
 
                                                         <!-- nft countdwon -->
                                                         <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                        <li>
-                                                                                                                                                                                                            <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                    </ul> -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul> -->
                                                     </div>
                                                     <div class="nft-content">
                                                         <h4><a href="item-details.html">Silly C4T de</a> </h4>
@@ -340,108 +339,6 @@
         </div>
     </section>
     <!-- ===============//banner section end here \\================= -->
-
-
-    <!-- ==========wallet Section start Here========== -->
-    <section class="wallet-section padding-top padding-bottom">
-        <div class="container">
-
-            <div class="section-header style-4">
-                <div class="header-shape"><span></span></div>
-                <h3>All Wallet Options</h3>
-            </div>
-
-            <div class="wallet-inner">
-                <div class="row g-3">
-                    <div class="col-lg-2 col-sm-4 col-6">
-                        <div class="wallet-item home-4">
-                            <div class="wallet-item-inner text-center">
-                                <div class="wallet-thumb">
-                                    <a href="signin.html">
-                                        <img src="capadesu/assets/images/wallet/06.png" alt="wallet-img">
-                                    </a>
-                                </div>
-                                <div class="wallet-content">
-                                    <h5><a href="signin.html">Meta Mask</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-sm-4 col-6">
-                        <div class="wallet-item home-4">
-                            <div class="wallet-item-inner text-center">
-                                <div class="wallet-thumb">
-                                    <a href="signin.html">
-                                        <img src="capadesu/assets/images/wallet/07.png" alt="wallet-img">
-                                    </a>
-                                </div>
-                                <div class="wallet-content">
-                                    <h5><a href="signin.html">Binance</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-sm-4 col-6">
-                        <div class="wallet-item home-4">
-                            <div class="wallet-item-inner text-center">
-                                <div class="wallet-thumb">
-                                    <a href="signin.html">
-                                        <img src="capadesu/assets/images/wallet/08.png" alt="wallet-img">
-                                    </a>
-                                </div>
-                                <div class="wallet-content">
-                                    <h5><a href="signin.html">Formatic</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-sm-4 col-6">
-                        <div class="wallet-item home-4">
-                            <div class="wallet-item-inner text-center">
-                                <div class="wallet-thumb">
-                                    <a href="signin.html">
-                                        <img src="capadesu/assets/images/wallet/01.png" alt="wallet-img">
-                                    </a>
-                                </div>
-                                <div class="wallet-content">
-                                    <h5><a href="signin.html">Autherum</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-sm-4 col-6">
-                        <div class="wallet-item home-4">
-                            <div class="wallet-item-inner text-center">
-                                <div class="wallet-thumb">
-                                    <a href="signin.html">
-                                        <img src="capadesu/assets/images/wallet/03.png" alt="wallet-img">
-                                    </a>
-                                </div>
-                                <div class="wallet-content">
-                                    <h5><a href="signin.html">Coinbase</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-sm-4 col-6">
-                        <div class="wallet-item home-4">
-                            <div class="wallet-item-inner text-center">
-                                <div class="wallet-thumb">
-                                    <a href="signin.html">
-                                        <img src="capadesu/assets/images/wallet/05.png" alt="wallet-img">
-                                    </a>
-                                </div>
-                                <div class="wallet-content">
-                                    <h5><a href="signin.html">Portis</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ==========wallet Section ends Here========== -->
 
 
     <!-- ===============//auction section start here \\================= -->
@@ -791,19 +688,19 @@
                                         <div class="thumb-list swiper-wrapper">
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/01.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/petsypet1.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/02.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/petsypet2.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/03.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/petsypet3.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
@@ -811,7 +708,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Tarsius</a> </h4>
+                                            <h4><a href="/petsypet">Petsypet</a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -824,19 +721,19 @@
                                         <div class="thumb-list swiper-wrapper">
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/04.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/05.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/06.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
@@ -844,7 +741,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Pogo Coin</a> </h4>
+                                            <h4><a href="coming-soon">Pogo Coin</a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -857,19 +754,19 @@
                                         <div class="thumb-list swiper-wrapper">
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/07.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/foxyland1.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/08.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/foxyland2.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/09.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/foxyland3.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
@@ -877,7 +774,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Manguni </a> </h4>
+                                            <h4><a href="/folyland-polygon">Folyland Polygon </a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -890,19 +787,19 @@
                                         <div class="thumb-list swiper-wrapper">
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/10.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/11.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/12.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
@@ -910,7 +807,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Pogo Key </a> </h4>
+                                            <h4><a href="coming-soon">Pogo Key </a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -923,19 +820,19 @@
                                         <div class="thumb-list swiper-wrapper">
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/13.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/14.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/15.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
@@ -943,7 +840,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Pogo Game</a> </h4>
+                                            <h4><a href="coming-soon">Pogo Game</a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -956,19 +853,19 @@
                                         <div class="thumb-list swiper-wrapper">
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/16.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/17.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="single-thumb"><img
-                                                        src="capadesu/assets/images/nft-item/category/18.jpg"
+                                                        src="capadesu/assets/images/nft-item/category/comingsoon.jpg"
                                                         alt="cat-image">
                                                 </div>
                                             </div>
@@ -976,7 +873,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="explore.html">Pogo App</a> </h4>
+                                            <h4><a href="coming-soon">Pogo App</a> </h4>
                                         </div>
                                     </div>
                                 </div>
@@ -987,7 +884,7 @@
             </div>
         </div>
     </section>
-    <!-- ===============//Category section end here \\================= -->
+    <!-- ===============//Category section  end here \\================= -->
 
 
 
@@ -996,7 +893,7 @@
 
 
     <!-- ===============//Top Seller section start here \\================= -->
-    <section class="topseller-section padding-bottom">
+    {{-- <section class="topseller-section padding-bottom">
         <div class="container">
             <div class="section-header style-4">
                 <div class="header-shape"><span></span></div>
@@ -1216,12 +1113,12 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- ===============//Top Seller section end here \\================= -->
 
 
     <!-- ===============//Exclusive drops section start here \\================= -->
-    <section class="ex-drop-section padding-bottom">
+    {{-- <section class="ex-drop-section padding-bottom">
         <div class="container">
             <div class="section-header style-4">
                 <div class="header-shape"><span></span></div>
@@ -1269,19 +1166,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                    <li>
-                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                    </li>
-                                                                                                </ul> -->
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">EUPHORIA de</a> </h4>
@@ -1344,19 +1241,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                    <li>
-                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                    </li>
-                                                                                                </ul> -->
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">Mewao com de</a> </h4>
@@ -1419,19 +1316,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                    <li>
-                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                    </li>
-                                                                                                </ul> -->
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">pet mice rio</a> </h4>
@@ -1490,19 +1387,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                    <li>
-                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                    </li>
-                                                                                                </ul> -->
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">Logical Impact </a> </h4>
@@ -1565,19 +1462,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                    <li>
-                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                    </li>
-                                                                                                </ul> -->
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">Fly on high</a> </h4>
@@ -1632,19 +1529,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                    <li>
-                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                    </li>
-                                                                                                </ul> -->
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">kiara rodri de</a> </h4>
@@ -1707,19 +1604,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                    <li>
-                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                    </li>
-                                                                                                </ul> -->
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">EUPHORIA de</a> </h4>
@@ -1782,19 +1679,19 @@
 
                                             <!-- nft countdwon -->
                                             <!-- <ul class="nft-countdown count-down" data-date="July 05, 2022 21:14:01">
-                                                                                                    <li>
-                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
-                                                                                                    </li>
-                                                                                                    <li>
-                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
-                                                                                                    </li>
-                                                                                                </ul> -->
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="days">34</span><span class="count-txt">D</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="hours">09</span><span class="count-txt">H</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="minutes">32</span><span class="count-txt">M</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                    <li>
+                                                                                                                                                                                                        <span class="seconds">32</span><span class="count-txt">S</span>
+                                                                                                                                                                                                    </li>
+                                                                                                                                                                                                </ul> -->
                                         </div>
                                         <div class="nft-content">
                                             <h4><a href="item-details.html">Homies wall</a> </h4>
@@ -1816,17 +1713,15 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- ===============//Exclusive drops section end here \\================= -->
-
-
 
     <!-- ===============//blog section start here \\================= -->
     <section class="blog-section pb-120">
         <div class="container">
             <div class="section-header style-4">
                 <div class="header-shape"><span></span></div>
-                <h3>Writing</h3>
+                <h3>News</h3>
             </div>
             <div class="section-wrapper">
 
@@ -1840,7 +1735,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="blog-single.html">The Rise of the Non Fungible Tokens
+                                            <h4><a href="detail-news">The Rise of the Non Fungible Tokens
                                                     (NFTs)</a> </h4>
                                             <div class="meta-info">
                                                 <p><span><i class="icofont-ui-calendar" data-blast="color"></i></span>July
@@ -1862,7 +1757,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="blog-single.html"> Top 5 Most Popular NFT Games in 2022</a>
+                                            <h4><a href="detail-news"> Top 5 Most Popular NFT Games in 2022</a>
                                             </h4>
                                             <div class="meta-info">
                                                 <p><span><i class="icofont-ui-calendar" data-blast="color"></i></span>July
@@ -1884,7 +1779,7 @@
                                     </div>
                                     <div class="nft-content">
                                         <div class="author-details">
-                                            <h4><a href="blog-single.html">Best NFT Selling Marketplace website</a>
+                                            <h4><a href="detail-news">Best NFT Selling Marketplace website</a>
                                             </h4>
                                             <div class="meta-info">
                                                 <p><span><i class="icofont-ui-calendar" data-blast="color"></i></span>July
@@ -1904,6 +1799,147 @@
         </div>
     </section>
     <!-- ===============//blog section end here \\================= -->
+
+    <!-- ===============//blog section start here \\================= -->
+    <section class="blog-section pb-120">
+        <div class="container">
+            <div class="section-header style-4">
+                <div class="header-shape"><span></span></div>
+                <h3>Join the Community</h3>
+            </div>
+            <div class="section-wrapper">
+                <div class="row g-3">
+                    <div class="col-lg-2 col-sm-4 col-6">
+                        <div class="wallet-item home-4">
+                            <div class="wallet-item-inner text-center">
+                                <div class="wallet-thumb">
+                                    <a href="https://opensea.io/collection/petsypet" target="_blank">
+                                        <img src="capadesu/assets/images/sponsor/nft.png" alt="wallet-img">
+                                    </a>
+                                </div>
+                                <div class="wallet-content">
+                                    <h5><a href="https://opensea.io/collection/petsypet" target="_blank">Petsypet</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-sm-4 col-6">
+                        <div class="wallet-item home-4">
+                            <div class="wallet-item-inner text-center">
+                                <div class="wallet-thumb">
+                                    <a href="https://discord.com/invite/A3Kjrvu5Gm" target="_blank">
+                                        <img src="capadesu/assets/images/sponsor/discord.png" alt="wallet-img">
+                                    </a>
+                                </div>
+                                <div class="wallet-content">
+                                    <h5><a href="https://discord.com/invite/A3Kjrvu5Gm" target="_blank">Discord</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-sm-4 col-6">
+                        <div class="wallet-item home-4">
+                            <div class="wallet-item-inner text-center">
+                                <div class="wallet-thumb">
+                                    <a href="https://twitter.com/PoGoGuTat" target="_blank">
+                                        <img src="capadesu/assets/images/sponsor/twitter.png" alt="wallet-img">
+                                    </a>
+                                </div>
+                                <div class="wallet-content">
+                                    <h5><a href="https://twitter.com/PoGoGuTat" target="_blank">Twitter</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-sm-4 col-6">
+                        <div class="wallet-item home-4">
+                            <div class="wallet-item-inner text-center">
+                                <div class="wallet-thumb">
+                                    <a href="https://www.youtube.com/c/PoGoGuTat" target="_blank">
+                                        <img src="capadesu/assets/images/sponsor/ytube.png" alt="wallet-img">
+                                    </a>
+                                </div>
+                                <div class="wallet-content">
+                                    <h5><a href="https://www.youtube.com/c/PoGoGuTat" target="_blank">Youtube</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-sm-4 col-6">
+                        <div class="wallet-item home-4">
+                            <div class="wallet-item-inner text-center">
+                                <div class="wallet-thumb">
+                                    <a href="https://www.instagram.com/pogogutat" target="_blank">
+                                        <img src="capadesu/assets/images/sponsor/ig.png" alt="wallet-img">
+                                    </a>
+                                </div>
+                                <div class="wallet-content">
+                                    <h5><a href="https://www.instagram.com/pogogutat" target="_blank">Instagram</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-sm-4 col-6">
+                        <div class="wallet-item home-4">
+                            <div class="wallet-item-inner text-center">
+                                <div class="wallet-thumb">
+                                    <a href="https://opensea.io/collection/foxyland-polygon" target="_blank">
+                                        <img src="capadesu/assets/images/sponsor/nft.png" alt="wallet-img">
+                                    </a>
+                                </div>
+                                <div class="wallet-content">
+                                    <h5><a href="https://opensea.io/collection/foxyland-polygon" target="_blank">Foxy
+                                            Land</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ===============//blog section end here \\================= -->
+
+    <!-- ===============//sponsor section start here \\================= -->
+    {{-- <section class="sponsor-section pb-120">
+        <div class="container">
+            <div class="section-header style-4">
+                <div class="header-shape"><span></span></div>
+                <h3>Join the Community</h3>
+            </div>
+            <div class="section-wrapper">
+                <div class="sponsor-wrapper">
+                    <div class="row align-items-center justify-content-center g-5">
+                        <div class="col-lg-2 col-sm-3 col-4">
+                            <a href="#" class="sponsor-img text-center"><img src="assets/images/sponsor/01.png"
+                                    alt="sponsor-img"></a>
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-4">
+                            <a href="#" class="sponsor-img text-center"><img src="assets/images/sponsor/02.png"
+                                    alt="sponsor-img"></a>
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-4">
+                            <a href="#" class="sponsor-img text-center"><img src="assets/images/sponsor/03.png"
+                                    alt="sponsor-img"></a>
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-4">
+                            <a href="#" class="sponsor-img text-center"><img src="assets/images/sponsor/04.png"
+                                    alt="sponsor-img"></a>
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-4">
+                            <a href="#" class="sponsor-img text-center"><img src="assets/images/sponsor/05.png"
+                                    alt="sponsor-img"></a>
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-4">
+                            <a href="#" class="sponsor-img text-center"><img src="assets/images/sponsor/06.png"
+                                    alt="sponsor-img"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> --}}
+    <!-- ===============//sponsor section end here \\================= -->
 @endsection
 
 {{-- @push('after-style')

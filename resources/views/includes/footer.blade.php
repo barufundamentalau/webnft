@@ -1,5 +1,5 @@
 <footer class="footer-section style-4">
-    <div class="footer-top" style="background-image: url(assets/images/footer/bg-4.jpg);">
+    {{-- <div class="footer-top" style="background-image: url(assets/images/footer/bg-4.jpg);">
         <div class="footer-newsletter">
             <div class="container">
                 <div class="row g-4 align-items-center justify-content-center">
@@ -22,14 +22,14 @@
                             <ul class="social-list d-flex flex-wrap align-items-center mb-0">
                                 <li class="social-link"><a href="https://twitter.com/PoGoGuTat"
                                         data-blast="bgColor"><i class="icofont-twitter"></i></a></li>
-                                {{-- <li class="social-link"><a href="#" data-blast="bgColor"><i
-                                            class="icofont-twitch"></i></a></li> --}}
-                                {{-- <li class="social-link"><a href="http://discord.gg/A3Kjrvu5G" data-blast="bgColor"><i
-                                            class="icofont-reddit"></i></a></li> --}}
+                                <li class="social-link"><a href="https://www.youtube.com/c/PoGoGuTat"
+                                        data-blast="bgColor"><i class="icofont-youtube-play"></i></a></li>
                                 <li class="social-link"><a href="https://instagram.com/pogogutat"
                                         data-blast="bgColor"><i class="icofont-instagram"></i></a></li>
-                                {{-- <li class="social-link"><a href="#" data-blast="bgColor"><i
-                                            class="icofont-dribble"></i></a></li> --}}
+                                <li class="social-link"><a href="https://opensea.io/collection/petsypet"
+                                        data-blast="bgColor"><i class="icofont-bitcoin"></i></a></li>
+                                <li class="social-link"><a href="http://discord.gg/A3Kjrvu5G" data-blast="bgColor"><i
+                                            class="icofont-reddit"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -104,7 +104,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <div class="footer-bottom">
         <div class="container">
             <p class="text-center py-4 mb-0">Copyright &copy; 2022 Pogogutat NFT All rights reserved

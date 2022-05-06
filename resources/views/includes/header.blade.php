@@ -21,8 +21,22 @@
                         <a class="{{ setActive('/') }} header__nav-link home-4" href="{{ '/' }}"
                             role="button" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Home</a>
                     </li>
-                    <li class="{{ setActive('landing/projects') }} header__nav-item">
+                    {{-- <li class="{{ setActive('landing/projects') }} header__nav-item">
                         <a href="{{ route('landing.projects') }}" class="header__nav-link">Projects</a>
+                    </li> --}}
+                    <li class="header__nav-item">
+                        <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Projects</a>
+
+                        <ul class="dropdown-menu header__nav-menu">
+                            <li><a class="drop-down-item" href="/petsypet">Petsypet</a></li>
+                            <li><a class="drop-down-item" href="coming-soon">Pogo Coin</a></li>
+                            <li><a class="drop-down-item" href="/folyland-polygon">Folyland Polygon</a></li>
+                            <li><a class="drop-down-item" href="coming-soon">Pogo Key</a></li>
+                            <li><a class="drop-down-item" href="coming-soon">Pogo Game</a></li>
+                            <li><a class="drop-down-item" href="coming-soon">Pogo App</a></li>
+
+                        </ul>
                     </li>
                     <li class="{{ setActive('landing/news') }} header__nav-item">
                         <a href="{{ route('landing.news') }}" class="header__nav-link">News</a>

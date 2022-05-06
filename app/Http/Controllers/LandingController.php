@@ -25,4 +25,19 @@ class LandingController extends Controller
     {
         return view('pages.landing-page.about');
     }
+
+    public function detailnews()
+    {
+        return view('pages.landing-page.news-detail');
+    }
+
+    public function petsypet()
+    {
+        return view('pages.landing-page.petsypet');
+    }
+
+    public function folylandpolygon()
+    {
+        return view('pages.landing-page.folyland-polygon');
+    }
 }

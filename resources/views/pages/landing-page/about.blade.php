@@ -10,11 +10,11 @@
             <div class="page-header-content">
                 <div class="page-header-inner">
                     <div class="page-title">
-                        <h2>About Us </h2>
+                        <h2>About </h2>
                     </div>
                     <ol class="breadcrumb">
                         <li><a href="{{ '/' }}">Home</a></li>
-                        <li class="active">About </li>
+                        <li class="active">About Us </li>
                     </ol>
                 </div>
             </div>
