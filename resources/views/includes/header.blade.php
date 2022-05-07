@@ -98,9 +98,9 @@
             </div>
 
             <div class="header__actions">
-                <div class="header__action header__action--search">
+                {{-- <div class="header__action header__action--search">
                     <button class="header__action-btn" type="button"><i class="icofont-search-1"></i></button>
-                </div>
+                </div> --}}
 
                 {{-- <div class="header__action header__action--profile">
                     <div class="dropdown">
