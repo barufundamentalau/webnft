@@ -17,14 +17,14 @@
             </form> --}}
             <div class="header__menu ms-auto">
                 <ul class="header__nav mb-0">
-                    <li class="header__nav-item">
+                    {{-- <li class="header__nav-item">
                         <a class="{{ setActive('/') }} header__nav-link home-4" href="{{ '/' }}"
                             role="button" aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Roadmap</a>
-                    </li>
+                    </li> --}}
                     {{-- <li class="{{ setActive('landing/projects') }} header__nav-item">
                         <a href="{{ route('landing.projects') }}" class="header__nav-link">Projects</a>
                     </li> --}}
-                    <li class="header__nav-item">
+                    {{-- <li class="header__nav-item">
                         <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true"
                             aria-expanded="false" data-bs-offset="0,10">Projects</a>
 
@@ -37,12 +37,18 @@
                             <li><a class="drop-down-item" href="coming-soon">Pogo App</a></li>
 
                         </ul>
-                    </li>
-                    <li class="header__nav-item">
+                    </li> --}}
+                    {{-- <li class="header__nav-item">
                         <a href="coming-soon" class="header__nav-link">News</a>
+                    </li> --}}
+                    <li class="header__nav-item">
+                        <a href="/petsypet" class="header__nav-link">Petsypet</a>
                     </li>
                     <li class="header__nav-item">
-                        <a href="coming-soon" class="header__nav-link">About Us</a>
+                        <a href="/folyland-polygon" class="header__nav-link">Folyland Polygon</a>
+                    </li>
+                    <li class="header__nav-item">
+                        <a href="about" class="header__nav-link">About Us</a>
                     </li>
                     {{-- <li class="header__nav-item">
                         <a class="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"

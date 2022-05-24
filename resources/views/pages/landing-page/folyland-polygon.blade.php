@@ -13,8 +13,11 @@
                         <h2>Foxyland Polygon </h2>
                     </div>
                     <ol class="breadcrumb">
-                        <li><a href="{{ '/' }}">Home</a></li>
-                        <li class="active">Foxyland Polygon Collection </li>
+                        {{-- <li><a href="{{ '/' }}">Home</a></li> --}}
+                        <br>
+                        <li class="active">FOXYLAND is a project inspired by anime and manga, 3333 Collection, CUTE,
+                            CHARACTER will need Place in your wallet and feed them with Transaction on Polygon Blockchain.
+                        </li>
                     </ol>
                 </div>
             </div>

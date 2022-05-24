@@ -13,8 +13,11 @@
                         <h2>Petsypet </h2>
                     </div>
                     <ol class="breadcrumb">
-                        <li><a href="{{ '/' }}">Home</a></li>
-                        <li class="active">Petsypet Collection </li>
+                        {{-- <li><a href="{{ '/' }}">Home</a></li> --}}<br>
+                        <li class="active">Petsypet is a creature that lives in a virtual world with various DNA
+                            taken from pet data, real-world animals Data, and this data is combined to get a Pet born
+                            Unique, Because This Pet Lives on the Polygon Blockchain, They are still looking for their
+                            owners by looking for Wallets that are ready to accept their presence.</li>
                     </ol>
                 </div>
             </div>

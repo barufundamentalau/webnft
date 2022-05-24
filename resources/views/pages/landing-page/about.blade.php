@@ -31,11 +31,18 @@
                     <div class="col-lg-8">
                         <article class="contact-form-wrapper">
                             <div class="contact-form">
-                                <h4>Don't Be A Stranger Just Say Hello.</h4>
-                                <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                    Blanditiis,
-                                    alias sint! Velit suscipit alias totam repellendus enim, vero architecto harum
-                                    maiores aut mollitia nulla eos error. </p>
+                                <h4>About Us</h4>
+                                <p class="mb-5">Starting from our motto, PoGoGuTat which means to help each other,
+                                    we want to develop NFT technology that runs on a polygon network to be able to connect
+                                    with one another and be mutually beneficial in the new world, web3. We all have the same
+                                    vision, and that is to improve us as a whole, physically, mentally, and financially as
+                                    well. For us this is more than a project that bridges physical and digital goods. It is
+                                    a place for all of us to thrive and improve our lives, lifestyles and help others in
+                                    need. Mental health is a huge priority for us and our colleagues, we take it very
+                                    seriously and are ready to help. Much of our proceeds will be used for this cause and
+                                    charity. Our Team and Discord are safe places to talk about private things while
+                                    remaining completely anonymous. The purpose and transparency of activities can be
+                                    monitored through our youtube account. </p>
                                 <form action="#" method="POST" id="commentform" class="comment-form">
                                     <div class="row g-3">
                                         <div class="col-md-6">
